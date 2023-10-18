@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ComTutorial</string>
+    <string name="title_activity_compose_tutorial">ComposeTutorial</string>
+</resources>
